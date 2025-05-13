@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/GamingProjects/static/css/main.4d4c7535.css",
+    "main.js": "/GamingProjects/static/js/main.a96dd41d.js",
+    "static/js/415.fc063c41.chunk.js": "/GamingProjects/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/GamingProjects/static/js/787.f6e65957.chunk.js",
+    "static/media/Counter Terrorist Shooting.png": "/GamingProjects/static/media/Counter Terrorist Shooting.a8f19f3834d15c44f6ef.png",
+    "static/media/DriveCar.png": "/GamingProjects/static/media/DriveCar.5337106730d04709768f.png",
+    "static/media/FPS Commando Shooting Strike.png": "/GamingProjects/static/media/FPS Commando Shooting Strike.048ee7ed062226f4ca95.png",
+    "static/media/Fire Grand Battle Royale.png": "/GamingProjects/static/media/Fire Grand Battle Royale.9089c5edffb2d9449cf2.png",
+    "static/media/TripleMatch.png": "/GamingProjects/static/media/TripleMatch.d8985a518f9bb024db2b.png",
+    "static/media/Spider Robot Car Transform.png": "/GamingProjects/static/media/Spider Robot Car Transform.17cd127f312d1b442447.png",
+    "static/media/Shooter Games 3D.png": "/GamingProjects/static/media/Shooter Games 3D.a6eeb7a720091cb2f802.png",
+    "static/media/Police Cargo Truck Offroad 3D.png": "/GamingProjects/static/media/Police Cargo Truck Offroad 3D.7677e56941f59131ba16.png",
+    "static/media/Flying Bus Robot Car Transfom.png": "/GamingProjects/static/media/Flying Bus Robot Car Transfom.b614f056a36811ecec23.png",
+    "static/media/FruiteMerge.png": "/GamingProjects/static/media/FruiteMerge.a619b4dcd37d126ea753.png",
+    "static/media/TapAway.png": "/GamingProjects/static/media/TapAway.2434e57f1411704b200e.png",
+    "static/media/Assassin.png": "/GamingProjects/static/media/Assassin.0bef95ffc3cc528b163d.png",
+    "static/media/home-bg.jpg": "/GamingProjects/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/GamingProjects/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/GamingProjects/index.html",
+    "main.4d4c7535.css.map": "/GamingProjects/static/css/main.4d4c7535.css.map",
+    "main.a96dd41d.js.map": "/GamingProjects/static/js/main.a96dd41d.js.map",
+    "415.fc063c41.chunk.js.map": "/GamingProjects/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/GamingProjects/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d4c7535.css",
+    "static/js/main.a96dd41d.js"
+  ]
+}
